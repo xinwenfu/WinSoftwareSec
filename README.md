@@ -1,5 +1,5 @@
 # Vunerable Chat (VChat) Server
-* [VChat GUI](https://github.com/DaintyJet/VChatGUI), which starts vchat as a background process
+* [VChat GUI](https://github.com/DaintyJet/VChatGUI), which starts the VChat server as a background process
 * [Vulnerable Chat Server](https://github.com/xinwenfu/vchat), which is the actual VChat server
 
 # Defense modules
