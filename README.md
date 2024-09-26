@@ -1,3 +1,7 @@
+# Vunerable Chat (VChat) Server
+* [VChat GUI](https://github.com/DaintyJet/VChatGUI), which starts vchat as a background process
+* [Vulnerable Chat Server](https://github.com/xinwenfu/vchat). which is the actual VChat server
+
 # Defense modules
 * [Control Flow Guard (CFG)](https://github.com/DaintyJet/VChat_CFG)
 * [Address Space Layout Randomization (ASLR)](https://github.com/DaintyJet/VChat_ASLR_Intro)
