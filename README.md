@@ -1,8 +1,10 @@
-# Vunerable Chat (VChat) Server
+# Windows Advanced Memory Corruption Attack and Defense Teaching Modules
+
+## Vunerable Chat (VChat) Server
 * [VChat GUI](https://github.com/DaintyJet/VChatGUI), which starts the VChat server as a background process
 * [Vulnerable Chat Server](https://github.com/xinwenfu/vchat), which is the actual VChat server
 
-# Defense modules
+## Defense modules
 * [Control Flow Guard (CFG)](https://github.com/DaintyJet/VChat_CFG)
 * [Address Space Layout Randomization (ASLR)](https://github.com/DaintyJet/VChat_ASLR_Intro)
 * [Data Execution Protection (DEP)](https://github.com/DaintyJet/VChat_DEP_Intro)
@@ -10,7 +12,7 @@
 * [Security Cookies/Buffer Security Checks](https://github.com/DaintyJet/VChat_Security_Cookies)
 * [Validate Heap Integrity](https://github.com/DaintyJet/VChat_Heap_Defense)
 
-# Attack modules
+## Attack modules
 * [VChat TRUN - Basic Buffer Overflow](https://github.com/DaintyJet/VChat_TRUN)
 * [VChat GTER - Egg Hunters](https://github.com/DaintyJet/VChat_GTER_EggHunter)
 * [VChat GTER - Code Reuse](https://github.com/DaintyJet/VChat_GTER_CodeReuse)
