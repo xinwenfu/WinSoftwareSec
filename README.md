@@ -13,7 +13,7 @@
 * [Validate Heap Integrity](https://github.com/DaintyJet/VChat_Heap_Defense)
 
 ## Attack modules
-* [VChat TRUN - Basic Buffer Overflow](https://github.com/DaintyJet/VChat_TRUN)
+* [VChat TRUN - Basic Buffer Overflow](https://github.com/xinwenfu/VChat_TRUN)
 * [VChat GTER - Egg Hunters](https://github.com/DaintyJet/VChat_GTER_EggHunter)
 * [VChat GTER - Code Reuse](https://github.com/DaintyJet/VChat_GTER_CodeReuse)
 * [VChat GMON - Structured Exception Handling (SEH)](https://github.com/DaintyJet/VChat_GMON_SEH)
