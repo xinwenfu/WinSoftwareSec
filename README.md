@@ -4,7 +4,7 @@
 * [VChat_GUI.exe, VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server), executables for running VChat
 * [VChat GUI](https://github.com/xinwenfu/vchat/tree/main/Server/Visual%20Studio%20Projects/EXE), which starts the VChat server as a background process
 * [Vulnerable Chat Server](https://github.com/xinwenfu/vchat/tree/main/Server/Visual%20Studio%20Projects/EXE), which is the actual VChat server
-* [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/VMs/New/Kali-25-2025.ova), installed with boffuzz and other tools
+* [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/VMs/Kali-25G-2025.ova), installed with boffuzz and other tools
 
 ## Defense modules
 * [Control Flow Guard (CFG)](https://github.com/DaintyJet/VChat_CFG)
