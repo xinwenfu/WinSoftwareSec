@@ -17,7 +17,7 @@
 ## Attack modules
 * [VChat TRUN - Basic Buffer Overflow](https://github.com/xinwenfu/VChat_TRUN)
 * [VChat GTER - Egg Hunters](https://github.com/xinwenfu/VChat_GTER_EggHunter)
-* [VChat GTER - Code Reuse](https://github.com/DaintyJet/VChat_GTER_CodeReuse)
+* [VChat GTER - Code Reuse](https://github.com/xinwenfu/VChat_GTER_CodeReuse)
 * [VChat GMON - Structured Exception Handling (SEH)](https://github.com/DaintyJet/VChat_GMON_SEH)
 * [VCHAT KSTET - Multistage Shellcode (recv)](https://github.com/DaintyJet/VChat_KSTET_Multi)
 * [VChat KSTET - Multistage Shellcode (DLL)](https://github.com/DaintyJet/VChat_KSTET_DLL)
