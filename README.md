@@ -23,7 +23,7 @@
 6. [VChat KSTET - Multistage Shellcode (DLL)](https://github.com/DaintyJet/VChat_KSTET_DLL)
 7. [VChat LTER - Bad Characters](https://github.com/DaintyJet/VChat_LTER)
 8. [VChat TRUN - Introduction to Data Execution Prevention (DEP)](https://github.com/xinwenfu/VChat_DEP)
-9. [VChat TRUN - Understanding ROP](https://github.com/DaintyJet/VChat_ROP_INTRO)
+9. [VChat TRUN - Understanding ROP](https://github.com/xinwenfu/VChat_ROP_INTRO)
 10. [VChat TRUN - ROP Attack](https://github.com/DaintyJet/VChat_TRUN_ROP)
 11. [VChat TRUN - Brute Force: DEP & ASLR Bypass](https://github.com/DaintyJet/VChat_Brute_Force)
 12. [Heap Overflow Examples](https://github.com/DaintyJet/Heap-Overflow-Example)
