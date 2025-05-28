@@ -25,7 +25,7 @@
 8. [VChat TRUN - Introduction to Data Execution Prevention (DEP)](https://github.com/xinwenfu/VChat_DEP)
 9. [VChat TRUN - Understanding ROP](https://github.com/xinwenfu/VChat_ROP_INTRO)
 10. [VChat TRUN - ROP Attack](https://github.com/xinwenfu/VChat_TRUN_ROP)
-11. [VChat TRUN - Brute Force: DEP & ASLR Bypass](https://github.com/DaintyJet/VChat_Brute_Force)
+11. [VChat TRUN - Brute Force: DEP & ASLR Bypass](https://github.com/xinwenfu/VChat_Brute_Force)
 12. [Heap Overflow Examples](https://github.com/DaintyJet/Heap-Overflow-Example)
 13. [VChat - Heap Overflows](https://github.com/DaintyJet/VChat_Heap_Exploit)
 
