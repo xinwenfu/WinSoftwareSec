@@ -21,7 +21,7 @@
 4. [VChat GMON - Structured Exception Handling (SEH)](https://github.com/xinwenfu/VChat_GMON_SEH)
 5. [VCHAT KSTET - Multistage Shellcode (recv)](https://github.com/xinwenfu/VChat_KSTET_Multi)
 6. [VChat KSTET - Multistage Shellcode (DLL)](https://github.com/xinwenfu/VChat_KSTET_DLL)
-7. [VChat LTER - Bad Characters](https://github.com/DaintyJet/VChat_LTER)
+7. [VChat LTER - Bad Characters](https://github.com/xinwenfu/VChat_LTER)
 8. [VChat TRUN - Introduction to Data Execution Prevention (DEP)](https://github.com/xinwenfu/VChat_DEP)
 9. [VChat TRUN - Understanding ROP](https://github.com/xinwenfu/VChat_ROP_INTRO)
 10. [VChat TRUN - ROP Attack](https://github.com/xinwenfu/VChat_TRUN_ROP)
