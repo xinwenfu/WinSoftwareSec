@@ -9,6 +9,7 @@
     * C:\Tools\vchat\VChat.exe
     * If VChat.exe is accidentally removed, copy from C:\Tools\vchat\Backup
   * [Immunity Debugger](https://github.com/kbandla/ImmunityDebugger/releases)
+    * It prompts to [install Python 2.7](https://www.youtube.com/watch?v=k35YgP_sX4E) 
     * [mona.py](https://github.com/corelan/mona) shall be installed too
 * Default Windows configuratiions
   * Disable all [Windows Firewall](https://support.microsoft.com/en-us/windows/firewall-and-network-protection-in-the-windows-security-app-ec0844f7-aebd-0583-67fe-601ecf5d774f) by default
