@@ -3,17 +3,15 @@
 ## Lab Environment 
 
 ### Windows
-All labs work on Windows 10/11.
-#### Software
+* All labs work on Windows 10/11.
 * Minimum requirement: Vunerable Chat (VChat) Server: [VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server). VChat GUI.exe can start VChat.exe as a background process although not really needed.
-#### Configuration
+  * C:\Tools\vchat\VChat.exe
+  * If VChat.exe is accidentally removed, copy from C:\Tools\vchat\Backup
 * Disable Windows Firewall by default
 * Disable all Exploit Protection features by default
 
 ### Kali
-* [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/Tools/Kali-40G-2025.ova)
-#### Software
-The customized Kali VM iis nstalled with tools Kali does not ship by default and also our own tools.
+Our [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/Tools/Kali-40G-2025.ova) is installed with tools Kali does not ship by default and also our own tools.
 * boffuzz
 * Customized Armitage
 * Vunerable Chat (VChat) client: /home/kali/GenCyber/vchat/Client/client.py
