@@ -4,7 +4,7 @@
 
 ### Windows
 * All labs work on Windows 10/11.
-* Minimum requirement: Vunerable Chat (VChat) Server: [VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server). VChat GUI.exe can start VChat.exe as a background process although not really needed.
+* Minimum requirement. [Vunerable Chat (VChat) Server: VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server). VChat GUI.exe can start VChat.exe as a background process although not really needed. If our Windows VM is used, VChat is installed by default.
   * C:\Tools\vchat\VChat.exe
   * If VChat.exe is accidentally removed, copy from C:\Tools\vchat\Backup
 * Disable Windows Firewall by default
