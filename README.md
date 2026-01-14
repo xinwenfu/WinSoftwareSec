@@ -8,8 +8,8 @@
   * C:\Tools\vchat\VChat.exe
   * If VChat.exe is accidentally removed, copy from C:\Tools\vchat\Backup
 * Default Windows configuratiions
-  * Disable Windows Firewall by default
-  * Disable all Exploit Protection features by default
+  * Disable all [Windows Firewall](https://support.microsoft.com/en-us/windows/firewall-and-network-protection-in-the-windows-security-app-ec0844f7-aebd-0583-67fe-601ecf5d774f) by default
+  * Disable all [Exploit Protection](https://www.tenforums.com/tutorials/105533-enable-disable-windows-defender-exploit-protection-settings.html) features by default
 
 ### Kali
 Our [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/Tools/Kali-40G-2025.ova) is installed with tools Kali does not ship by default and also our own tools.
