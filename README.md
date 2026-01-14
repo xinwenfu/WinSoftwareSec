@@ -1,10 +1,22 @@
 # Windows Advanced Memory Corruption Attack and Defense Teaching Modules
 
-## Vunerable Chat (VChat) Server and Kali VM
-* [VChat_GUI.exe, VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server), executables for running VChat
-* [VChat GUI](https://github.com/xinwenfu/vchat/tree/main/Server/Visual%20Studio%20Projects/EXE), which starts the VChat server as a background process
-* [Vulnerable Chat Server](https://github.com/xinwenfu/vchat/tree/main/Server/Visual%20Studio%20Projects/EXE), which is the actual VChat server
-* [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/VMs/Kali-25G-2025.ova), installed with boffuzz and other tools
+## Lab Environment 
+
+### Windows
+All labs work on Windows 10/11.
+#### Software
+* Minimum requirement: Vunerable Chat (VChat) Server: [VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server). VChat GUI.exe can start VChat.exe as a background process although not really needed.
+#### Configuration
+* Disable Windows Firewall by default
+* Disable all Exploit Protection features by default
+
+### Kali
+* [Customized Kali VM](https://www.cs.uml.edu/~xinwenfu/Tools/Kali-40G-2025.ova)
+#### Software
+The customized Kali VM iis nstalled with tools Kali does not ship by default and also our own tools.
+* boffuzz
+* Customized Armitage
+* Vunerable Chat (VChat) client: /home/kali/GenCyber/vchat/Client/client.py
 
 ## Defense modules
 1. [Control Flow Guard (CFG)](https://github.com/DaintyJet/VChat_CFG)
