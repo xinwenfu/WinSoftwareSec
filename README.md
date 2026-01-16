@@ -5,7 +5,7 @@
 ### Windows
 * All labs work on Windows 10/11.
 * Minimum requirement. If our Windows VM is used, all the tools are already installed.
-  * [Vunerable Chat (VChat) Server: VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server). VChat_GUI.exe can start VChat.exe as a background process although not really needed. On our Windows VM,
+  * [Vunerable Chat (VChat) Server: VChat.exe, Essfun.dll](https://github.com/xinwenfu/vchat/tree/main/Server). *VChat_GUI.exe* can start VChat.exe as a background process although not really needed. On our Windows VM,
     * C:\Tools\vchat\VChat.exe
     * If VChat.exe is accidentally removed, copy from C:\Tools\vchat\Backup
   * [Immunity Debugger](https://github.com/kbandla/ImmunityDebugger/releases)
